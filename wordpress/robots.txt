@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php
+Allow: /ads.txt
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /ads
+
+Sitemap: https://readingarden.com/sitemap.xml
+Sitemap: https://readingarden.com/post-sitemap.xml
+Sitemap: https://readingarden.com/page-sitemap.xml
+Sitemap: https://readingarden.com/category-sitemap.xml
+Sitemap: https://readingarden.com/post_tag-sitemap.xml
